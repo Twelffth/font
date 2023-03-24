@@ -1,0 +1,38 @@
+body {
+background-color: #d8d3d0;
+}
+
+#h31 {
+    font-weight: 700;
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+
+}
+
+#h32 {
+    font-weight: 700;
+    font-family: 'Single Day', cursive;
+    margin-left:20px;
+    font-size: 20px;
+
+}
+.note{
+    color: #3c3c3c;
+}
+.copy_right_footer{
+    text-align: left;
+    bottom: 0;
+    font-family: 'Kalam', cursive;
+    font-size: 20px;
+    position: fixed;
+}
+
+canvas {
+margin-top: 50px;
+
+}
+
+video {
+    font-family: 'Single Day', cursive;
+
+}
